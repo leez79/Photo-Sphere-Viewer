@@ -1,0 +1,44 @@
+{
+  "name": "Photo-Sphere-Viewer",
+  "version": "2.1",
+  "authors": [{
+    "name": "Jérémy Heleine",
+    "email": "jeremy.heleine@gmail.com",
+    "homepage": "http://jeremyheleine.me"
+  },{
+    "name": "Dan Lüdtke",
+    "homepage": "http://www.danrl.de"
+  },{
+    "name": "Thomas B. Lee",
+    "email": "leez79@gmail.com",
+    "homepage": "https://www.linkedin.com/in/thomasblee"
+  }],
+  "description": "A JavaScript library to display Photo Sphere panoramas",
+  "homepage": "https://github.com/leez79/Photo-Sphere-Viewer",
+  "main": [
+    "dist/photo-sphere-viewer.js",
+    "dist/photo-sphere-viewer.css"
+  ],
+  "dependencies": {
+    "three.js": ">= 0.0.67"
+  },
+  "keywords": [
+    "photosphere",
+    "panorama",
+    "threejs"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leez79/Photo-Sphere-Viewer"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src",
+    "tests",
+    "package.json",
+    "Gruntfile.js"
+  ]
+}
