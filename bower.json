@@ -1,5 +1,5 @@
 {
-  "name": "photo-sphere-viewer",
+  "name": "Photo-Sphere-Viewer",
   "version": "2.1",
   "authors": [{
     "name": "Jérémy Heleine",
@@ -14,7 +14,7 @@
     "homepage": "https://www.linkedin.com/in/thomasblee"
   }],
   "description": "A JavaScript library to display Photo Sphere panoramas",
-  "homepage": "https://github.com/leez79/photo-sphere-viewer",
+  "homepage": "https://github.com/leez79/Photo-Sphere-Viewer",
   "main": [
     "dist/photo-sphere-viewer.js"
   ],
@@ -29,7 +29,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/leez79/photo-sphere-viewer"
+    "url": "https://github.com/leez79/Photo-Sphere-Viewer"
   },
   "ignore": [
     "**/.*",
