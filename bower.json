@@ -16,8 +16,7 @@
   "description": "A JavaScript library to display Photo Sphere panoramas",
   "homepage": "https://github.com/leez79/Photo-Sphere-Viewer",
   "main": [
-    "dist/photo-sphere-viewer.js",
-    "dist/photo-sphere-viewer.css"
+    "dist/photo-sphere-viewer.js"
   ],
   "dependencies": {
     "three.js": ">= 0.0.67"
@@ -34,11 +33,6 @@
   },
   "ignore": [
     "**/.*",
-    "node_modules",
-    "bower_components",
-    "src",
-    "tests",
-    "package.json",
-    "Gruntfile.js"
+    "src"
   ]
 }
