@@ -221,7 +221,7 @@ var PhotoSphereViewer = function(args) {
 				}
 			};
 
-		xhr.open('GET', panorama, true);
+		xhr.open('POST', panorama, true);
 		xhr.send(null);
 	}
 
